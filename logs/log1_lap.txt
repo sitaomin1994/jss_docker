@@ -63,7 +63,7 @@ Epoch 7: loss: 0.0026
 Epoch 8: loss: 0.0026
 All clients converged, iteration 8
 Final: imp_rmse: 0.1530 imp_ws: 0.0687 
-Finished. Running time: 8.0696 seconds
+Finished. Running time: 24.0883 seconds
 ================================================
 Imputation Quality
 ================================================
@@ -89,7 +89,7 @@ Dep. Variable:                      y   No. Observations:                 1125
 Model:                          Logit   Df Residuals:                     1116
 Method:                           MLE   Df Model:                            8
 Date:                Mon, 09 Jun 2025   Pseudo R-squ.:                  0.2545
-Time:                        16:06:44   Log-Likelihood:                -528.54
+Time:                        16:45:23   Log-Likelihood:                -528.54
 converged:                       True   LL-Null:                       -708.95
 Covariance Type:            nonrobust   LLR p-value:                 4.432e-73
 ==============================================================================
@@ -140,7 +140,7 @@ Dep. Variable:                      y   No. Observations:                 4500
 Model:                          Logit   Df Residuals:                     4491
 Method:                           MLE   Df Model:                            8
 Date:                Mon, 09 Jun 2025   Pseudo R-squ.:                  0.2478
-Time:                        16:06:45   Log-Likelihood:                -2133.1
+Time:                        16:45:25   Log-Likelihood:                -2133.1
 converged:                       True   LL-Null:                       -2835.8
 Covariance Type:            nonrobust   LLR p-value:                4.035e-298
 ==============================================================================
