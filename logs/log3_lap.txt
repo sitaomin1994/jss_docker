@@ -32,7 +32,7 @@ Server: fed-strategy: fedmice
 ============================================================
 
 Imputation Start ...
-Finished. Running time: 0.4863 seconds
+Finished. Running time: 1.0099 seconds
 Running federated regression analysis...
                       Federated Logit Regression Result                       
 ==============================================================================
@@ -40,7 +40,7 @@ Dep. Variable:                    num   No. Observations:                  742
 Model:                          Logit   Df Residuals:                      727
 Method:                           MLE   Df Model:                           14
 Date:                Mon, 09 Jun 2025   Pseudo R-squ.:                  0.4122
-Time:                        16:06:51   Log-Likelihood:                -299.78
+Time:                        16:45:39   Log-Likelihood:                -299.78
 converged:                       True   LL-Null:                       -509.99
 Covariance Type:            nonrobust   LLR p-value:                 6.246e-81
 ==============================================================================
